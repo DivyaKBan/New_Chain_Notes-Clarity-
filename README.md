@@ -17,8 +17,8 @@ Store short public messages on-chain. This Clarity smart contract enables users 
 
 ## Contract Functions
 
-###Contract Details:
-Deployed Contract address:
+### Contract Details:
+- Deployed Contract address:
 ST1SBPB2TWCGTVSXS0FM69TZ9570K64M9G4XWENBZ.NEW_CHAIN
 
 
