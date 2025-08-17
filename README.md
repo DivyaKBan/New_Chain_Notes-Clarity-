@@ -109,6 +109,10 @@ The contract emits events when messages are posted for easier indexing:
   timestamp: uint
 }
 ```
+Stacks Summary--
+
+
+<img width="1878" height="912" alt="image" src="https://github.com/user-attachments/assets/16c3e018-bfb9-4b0a-bb53-6831e8265c7b" />
 
 ## Deployment
 
