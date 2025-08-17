@@ -13,7 +13,7 @@ Store short public messages on-chain. This Clarity smart contract enables users 
 - **User Tracking**: Track how many messages each user has posted
 - **Public Access**: Anyone can read any message on the board
 
-Stacks Summary--
+COntract Details--
 
 
 <img width="1878" height="912" alt="image" src="https://github.com/user-attachments/assets/16c3e018-bfb9-4b0a-bb53-6831e8265c7b" />
